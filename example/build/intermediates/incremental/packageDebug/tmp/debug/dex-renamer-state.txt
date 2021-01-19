@@ -1,0 +1,4 @@
+#Tue Jul 30 14:54:42 PDT 2019
+base.0=/Users/Gary/Downloads/CircularProgressIndicator-dev 2的副本 2 2/example/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

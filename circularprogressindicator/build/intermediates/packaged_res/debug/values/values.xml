@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgressIndicator">
+
+        <attr format="color" name="progressColor"/>
+        <attr format="color" name="progressBackgroundColor"/>
+        <attr format="dimension" name="progressStrokeWidth"/>
+        <attr format="dimension" name="progressBackgroundStrokeWidth"/>
+
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+
+        <attr format="string|reference" name="formattingPattern"/>
+
+        <attr format="boolean" name="drawDot"/>
+        <attr format="color" name="dotColor"/>
+        <attr format="dimension" name="dotWidth"/>
+
+        <attr format="integer|reference" name="startAngle"/>
+
+        <attr format="enum" name="direction">
+            <enum name="clockwise" value="0"/>
+            <enum name="counterclockwise" value="1"/>
+        </attr>
+
+        <attr format="enum" name="progressCap">
+            <enum name="round" value="0"/>
+            <enum name="butt" value="1"/>
+        </attr>
+
+        <attr format="boolean" name="enableProgressAnimation"/>
+
+        <attr format="boolean" name="fillBackground"/>
+
+        <attr format="color|reference" name="gradientEndColor"/>
+        <attr format="enum" name="gradientType">
+            <enum name="no_gradient" value="0"/>
+            <enum name="linear" value="1"/>
+            <enum name="radial" value="2"/>
+            <enum name="sweep" value="3"/>
+        </attr>
+
+    </declare-styleable>
+</resources>

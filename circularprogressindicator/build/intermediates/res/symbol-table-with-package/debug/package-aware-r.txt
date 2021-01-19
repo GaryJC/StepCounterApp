@@ -1,0 +1,27 @@
+antonkozyriatskyi.circularprogressindicator
+attr direction
+attr dotColor
+attr dotWidth
+attr drawDot
+attr enableProgressAnimation
+attr fillBackground
+attr formattingPattern
+attr gradientEndColor
+attr gradientType
+attr progressBackgroundColor
+attr progressBackgroundStrokeWidth
+attr progressCap
+attr progressColor
+attr progressStrokeWidth
+attr startAngle
+attr textColor
+attr textSize
+id butt
+id clockwise
+id counterclockwise
+id linear
+id no_gradient
+id radial
+id round
+id sweep
+styleable CircularProgressIndicator direction dotColor dotWidth drawDot enableProgressAnimation fillBackground formattingPattern gradientEndColor gradientType progressBackgroundColor progressBackgroundStrokeWidth progressCap progressColor progressStrokeWidth startAngle textColor textSize
