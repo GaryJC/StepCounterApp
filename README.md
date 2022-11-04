@@ -10,6 +10,6 @@ the users to walk. The user can set up their own goal. Once the users have reach
 - Map to show the current location.
 - Allow users to customize the indicator’s colour, text size and whether use animation\
 ![Picture1](stepCounterReadmeImg/p1.jpg)
-![Picture2](stepCounterReadmeImg/p2.jpg)
 ![Picture3](stepCounterReadmeImg/p3.jpg)
+![Picture2](stepCounterReadmeImg/p2.jpg)
 ![Picture4](stepCounterReadmeImg/p4.jpg)
